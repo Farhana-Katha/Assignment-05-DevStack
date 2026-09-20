@@ -16,8 +16,8 @@ const Nav = () => {
                     </div>
                 </ul>
                 <div>
-                    <button class="btn btn-active rounded-4xl">Sign In</button>
-                    <button class="btn btn-active btn-secondary rounded-4xl">Sign Up</button>
+                    <button className="btn btn-active rounded-4xl">Sign In</button>
+                    <button className="btn btn-active btn-secondary rounded-4xl">Sign Up</button>
                 </div>
             </div>
         </nav>
